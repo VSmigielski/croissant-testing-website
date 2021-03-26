@@ -1,0 +1,17 @@
+a {
+    color: black;
+}
+
+body {
+    background: rgb(231, 169, 231);
+    text-align: center;
+}
+
+.container {
+    justify-content: space-evenly;
+    max-width: 40%;
+}
+
+img {
+    border-radius: 20px;
+}
